@@ -12,12 +12,12 @@ require (
 	github.com/ethereum/go-ethereum v1.10.11
 	github.com/fatih/color v1.13.0
 	github.com/fxamacker/cbor/v2 v2.3.0
-	github.com/getsentry/sentry-go v0.11.0
+	github.com/getsentry/sentry-go v0.13.0
 	github.com/gin-contrib/cors v1.3.1
 	github.com/gin-contrib/expvar v0.0.0-20181230111036-f23b556cc79f
 	github.com/gin-contrib/size v0.0.0-20190528085907-355431950c57
 	github.com/gin-gonic/contrib v0.0.0-20190526021735-7fb7810ed2a0
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/gobuffalo/packr v1.30.1
 	github.com/google/pprof v0.0.0-20210720184732-4bb14d4b1be1
 	github.com/google/uuid v1.3.0
@@ -65,7 +65,7 @@ require (
 	go.uber.org/atomic v1.9.0
 	go.uber.org/multierr v1.7.0
 	go.uber.org/zap v1.19.1
-	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1
 	golang.org/x/text v0.3.7
@@ -178,7 +178,7 @@ require (
 	github.com/libp2p/go-ws-transport v0.4.0 // indirect
 	github.com/libp2p/go-yamux/v2 v2.0.0 // indirect
 	github.com/magiconair/properties v1.8.5 // indirect
-	github.com/mattn/go-colorable v0.1.9 // indirect
+	github.com/mattn/go-colorable v0.1.11 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/mattn/go-runewidth v0.0.12 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
@@ -230,8 +230,8 @@ require (
 	github.com/x448/float16 v0.8.4 // indirect
 	go.dedis.ch/protobuf v1.0.11 // indirect
 	go.opencensus.io v0.23.0 // indirect
-	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d // indirect
-	golang.org/x/sys v0.0.0-20210823070655-63515b42dcdf // indirect
+	golang.org/x/net v0.0.0-20211008194852-3b03d305991f // indirect
+	golang.org/x/sys v0.0.0-20211007075335-d3039528d8ac // indirect
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba // indirect
 	gopkg.in/ini.v1 v1.63.2 // indirect
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce // indirect
